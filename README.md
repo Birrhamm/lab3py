@@ -6,7 +6,7 @@
 
 #### -Penggunaan end pada Python berfunngsi untuk memberi pemisah antara quotes yang kita buat
 
-![gambar1](gambar/file 1.png)
+![gambar1](gambar/file1.png)
 
 ![gambar1](gambar/file1(1).png)
 
